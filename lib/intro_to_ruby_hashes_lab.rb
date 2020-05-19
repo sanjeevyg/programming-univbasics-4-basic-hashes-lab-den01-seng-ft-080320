@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- hash = {name : "Sanjeev", state : "Colorado"}
+ hash = {name: "Sanjeev", state: "Colorado"}
  hash 
 end
 
